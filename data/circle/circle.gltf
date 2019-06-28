@@ -1,0 +1,145 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ],
+      "name": "AuxScene"
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "name": "Cylinder001",
+      "mesh": 0
+    },
+    {
+      "children": [
+        0
+      ]
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 648,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 648,
+      "byteLength": 648,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1296,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1728,
+      "byteLength": 108,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1836,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 54,
+      "max": [
+        81.04299926757812,
+        0,
+        78.8545913696289
+      ],
+      "min": [
+        -82.37091064453125,
+        -62.27389907836914,
+        -1.6109999418258667
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 54,
+      "max": [
+        0.9848079085350037,
+        0,
+        1
+      ],
+      "min": [
+        -0.9848079085350037,
+        0,
+        0.1736471951007843
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 54,
+      "max": [
+        0.9924070239067078,
+        0.6268579959869385
+      ],
+      "min": [
+        0.009658999741077423,
+        0.3872259855270386
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 54,
+      "max": [
+        53
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ]
+}
